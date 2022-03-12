@@ -157,19 +157,17 @@
         "stashtable-master": "stashtable-master"
       },
       "locked": {
-        "dir": "nimpkgs/s/stashtable",
-        "lastModified": 1647065826,
-        "narHash": "sha256-r66No5mwEjm2Re2M0CQATyr5WM0Bb4+zjhJE7WoXqWE=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "8c681972a7fc4cdac7e98587f60b0b55ea9db44c",
+        "lastModified": 1647112485,
+        "narHash": "sha256-dnrhUXPjnw29HpnfQ0oDrZ323eFpIXRu9wtoHMruHIE=",
+        "owner": "nim-nix-pkgs",
+        "repo": "stashtable",
+        "rev": "fd0ea6713c782f97ab13b30707d1fdb77b88a016",
         "type": "github"
       },
       "original": {
-        "dir": "nimpkgs/s/stashtable",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "stashtable",
         "type": "github"
       }
     },
@@ -186,13 +184,20 @@
         "src-stashtable-1_0_0": "src-stashtable-1_0_0"
       },
       "locked": {
-        "narHash": "sha256-Jx6YfhEEBABIpqhgFFqPWKSSa1sY83xxdhXCe+B8ipM=",
-        "path": "./1_0_0",
-        "type": "path"
+        "dir": "1_0_0",
+        "lastModified": 1647112485,
+        "narHash": "sha256-dnrhUXPjnw29HpnfQ0oDrZ323eFpIXRu9wtoHMruHIE=",
+        "owner": "nim-nix-pkgs",
+        "repo": "stashtable",
+        "rev": "fd0ea6713c782f97ab13b30707d1fdb77b88a016",
+        "type": "github"
       },
       "original": {
-        "path": "./1_0_0",
-        "type": "path"
+        "dir": "1_0_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "stashtable",
+        "type": "github"
       }
     },
     "stashtable-1_1_0": {
@@ -208,13 +213,20 @@
         "src-stashtable-1_1_0": "src-stashtable-1_1_0"
       },
       "locked": {
-        "narHash": "sha256-fYOnacvZPwO1NfmaU1L/usUCZEePsu1JjilX9D5CGyY=",
-        "path": "./1_1_0",
-        "type": "path"
+        "dir": "1_1_0",
+        "lastModified": 1647112485,
+        "narHash": "sha256-dnrhUXPjnw29HpnfQ0oDrZ323eFpIXRu9wtoHMruHIE=",
+        "owner": "nim-nix-pkgs",
+        "repo": "stashtable",
+        "rev": "fd0ea6713c782f97ab13b30707d1fdb77b88a016",
+        "type": "github"
       },
       "original": {
-        "path": "./1_1_0",
-        "type": "path"
+        "dir": "1_1_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "stashtable",
+        "type": "github"
       }
     },
     "stashtable-1_2_0": {
@@ -230,13 +242,20 @@
         "src-stashtable-1_2_0": "src-stashtable-1_2_0"
       },
       "locked": {
-        "narHash": "sha256-sXsxvatCgDLqeAiLR720nA2X5wereRKrNvJ/plrLzI8=",
-        "path": "./1_2_0",
-        "type": "path"
+        "dir": "1_2_0",
+        "lastModified": 1647112485,
+        "narHash": "sha256-dnrhUXPjnw29HpnfQ0oDrZ323eFpIXRu9wtoHMruHIE=",
+        "owner": "nim-nix-pkgs",
+        "repo": "stashtable",
+        "rev": "fd0ea6713c782f97ab13b30707d1fdb77b88a016",
+        "type": "github"
       },
       "original": {
-        "path": "./1_2_0",
-        "type": "path"
+        "dir": "1_2_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "stashtable",
+        "type": "github"
       }
     },
     "stashtable-1_2_1": {
@@ -252,13 +271,20 @@
         "src-stashtable-1_2_1": "src-stashtable-1_2_1"
       },
       "locked": {
-        "narHash": "sha256-SWJDBdj1Z9Ib051FQADF1ND8jKQ8IB1C444UcnJ6+I0=",
-        "path": "./1_2_1",
-        "type": "path"
+        "dir": "1_2_1",
+        "lastModified": 1647112485,
+        "narHash": "sha256-dnrhUXPjnw29HpnfQ0oDrZ323eFpIXRu9wtoHMruHIE=",
+        "owner": "nim-nix-pkgs",
+        "repo": "stashtable",
+        "rev": "fd0ea6713c782f97ab13b30707d1fdb77b88a016",
+        "type": "github"
       },
       "original": {
-        "path": "./1_2_1",
-        "type": "path"
+        "dir": "1_2_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "stashtable",
+        "type": "github"
       }
     },
     "stashtable-master": {
@@ -274,13 +300,20 @@
         "src-stashtable-master": "src-stashtable-master"
       },
       "locked": {
-        "narHash": "sha256-sToPlmYtkyEaYwxV5ggBzZ/KvtFEiS5kXQCt73skIEA=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647112485,
+        "narHash": "sha256-dnrhUXPjnw29HpnfQ0oDrZ323eFpIXRu9wtoHMruHIE=",
+        "owner": "nim-nix-pkgs",
+        "repo": "stashtable",
+        "rev": "fd0ea6713c782f97ab13b30707d1fdb77b88a016",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "stashtable",
+        "type": "github"
       }
     }
   },
